@@ -93,7 +93,7 @@ $onemonth_data_pages = $wpdb->get_results("SELECT url AS x, COUNT(id) AS y FROM 
 		.linkdiv {
 		    overflow: hidden;
 		    border: 1px solid #ccc;
-		    background-color: #f1f1f1;
+		    background-color: #f1f1f2;
 		}
 		/* Style the buttons inside the tab */
 		.tab button {
